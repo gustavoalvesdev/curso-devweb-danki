@@ -1,0 +1,5 @@
+ORIENTAÇÃO A OBJETOS NO PHP OU OOP
+
+Classes - representam abstrações do mundo real, ou do minimundo do software, que são necessárias para o sistema que estamos desenvolvendo.
+
+Por exemplo, imagine um sistema de banco, poderíamos ter os seguintes elementos abstraídos do domínio do nosso sistema, que seriam importantes modelar em nosso sistema: agência, conta bancária, cliente, gerente, etc. 
